@@ -9,6 +9,8 @@ function Header() {
                     <img src="/logo.png" />
 
                 </Link>
+
+                <Button variant ="outline">Login </Button>
             </nav>
 
         </div>
