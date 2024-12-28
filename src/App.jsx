@@ -4,7 +4,7 @@ import viteLogo from '/vite.svg'
 import './App.css'
 import LandingPage from './pages/landing'
 import {createBrowserRouter, RouterProvider} from 'react-router-dom'
-
+import onboarding from './pages/onboarding'
 const router = createBrowserRouter([
 
 
