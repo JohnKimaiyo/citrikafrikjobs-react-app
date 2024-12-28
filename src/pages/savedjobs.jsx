@@ -1,9 +1,9 @@
 import React from 'react'
 
-function Saved-job() {
+function Savedjobs() {
   return (
     <div>Saved-job</div>
   )
 }
 
-export default Saved-job
+export default Savedjobs

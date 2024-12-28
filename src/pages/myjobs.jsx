@@ -1,9 +1,9 @@
 import React from 'react'
 
-function my-jobs() {
+function Myjobs() {
   return (
     <div>my-jobs</div>
   )
 }
 
-export default my-jobs
+export default Myjobs
