@@ -1,9 +1,9 @@
 import React from 'react'
 
-function landingPage() {
+function LandingPage() {
   return (
     <div>landing</div>
   )
 }
 
-export default landingPage
+export default LandingPage
